@@ -1,3 +1,4 @@
 cabecera
 cuerpo
 pie
+panel izq
